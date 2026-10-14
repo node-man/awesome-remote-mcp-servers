@@ -2466,6 +2466,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Security Intel](https://datakoot.com/security-intel) `https://security.datakoot.com/mcp`
   [![Datakoot Security Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/cve-vulnerability-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/cve-vulnerability-lookup)
   🔓 - CVE lookups with CISA KEV and EPSS exploit scores, plus OSV package vulnerabilities and package.json audits.
+- [DechoNet](https://dechonet.com/mcp) `https://dechonet.com/mcp`
+  [![DechoNet MCP connector](https://glama.ai/mcp/connectors/com.dechonet/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dechonet/mcp)
+  🔓 - Phishing-link checks opened like a Korean phone, plus DNS, TLS, headers, email auth and domain history.
 - [Domain Intelligence](https://oti-labs.com/mcp-server) `https://oti-labs.com/mcp`
   [![Domain Intelligence MCP connector](https://glama.ai/mcp/connectors/com.oti-labs/domain-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/com.oti-labs/domain-intelligence)
   🔓 - WHOIS/RDAP, DNS, SSL, live subdomains with IPs and SPF/DMARC/DKIM for any domain; 1,000 free lookups a month.
